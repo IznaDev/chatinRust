@@ -1,0 +1,8 @@
+[package]
+name = "chat_wavelet"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+smart-contract = "0.2.2"
+smart-contract-macros = "0.2.2"
